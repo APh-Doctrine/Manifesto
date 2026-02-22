@@ -1,8 +1,7 @@
 # THE APh DOCTRINE: SET-THEORETIC MODEL OF REALITY
 
 [![License: MIT](https://img.shields.io)](https://opensource.org)
-[![DOI](https://img.shields.io)](https://github.com)
-
+[![DOI](https://zenodo.org)](https://doi.org)
 > **"A final framework for the interpretation of reality through an ontologically closed architectural model."**
 
 ## Core Formula
